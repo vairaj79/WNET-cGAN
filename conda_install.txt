@@ -1,0 +1,11 @@
+# Aanaconda
+python=3.6
+conda install tensorflow-gpu=1.5.0
+conda install keras=2.1.6
+conda install numpy=1.16.6
+conda install -c conda-forge rasterio
+conda install -c conda-forge gdal
+conda install -c conda-forge matplotlib
+conda install -c anaconda scikit-learn
+conda install -c anaconda pandas
+conda install -c anaconda mkl-service
